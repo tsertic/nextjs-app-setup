@@ -13,9 +13,7 @@
     "build-storybook": "build-storybook"
   },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.19.3",
-    "yarn": "please-use-npm"
+    "node": ">=16.0.0"
   },
   "dependencies": {
     "@storybook/addon-actions": "^6.5.13",
